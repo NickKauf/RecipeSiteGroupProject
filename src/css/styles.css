@@ -7,11 +7,17 @@ body {
 
 }
 
-
 .welcome {
     padding: 15rem 0 15rem 0;
     text-align: center;
     color: yellow;
     text-shadow: 2px 2px black;
     font-family: 'Patrick Hand', cursive;
+}
+
+.middle{
+    background-color: #dedb96;
+}
+.middle>p{
+    padding: 4px;
 }
