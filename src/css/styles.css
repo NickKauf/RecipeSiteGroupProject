@@ -4,4 +4,14 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+}
+
+
+.welcome {
+    padding: 15rem 0 15rem 0;
+    text-align: center;
+    color: yellow;
+    text-shadow: 2px 2px black;
+    font-family: 'Patrick Hand', cursive;
 }
